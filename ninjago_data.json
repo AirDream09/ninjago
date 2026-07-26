@@ -86,11 +86,11 @@
       "color": "red",
       "episodes": [
         {
-          "id": "https://drive.google.com/file/d/1t7C34GGPcP65P3ThGmXj4pklUc_5ondX/view?usp=sharing",
+          "id": "pilot1",
           "season": "pilot",
           "episodeNumber": 1,
           "title": "Pilotfolgen: Die Legende von Ninjago / König der Schatten",
-          "driveId": "",
+          "driveId": "1t7C34GGPcP65P3ThGmXj4pklUc_5ondX",
           "watched": false,
           "questions": [
             {
